@@ -9,3 +9,7 @@ function newFun(a,b){
 function helloo(){
     console.log("hello world")
 }
+
+function newFeatureA(){
+    console.log ("another new feature A")
+}
