@@ -18,3 +18,8 @@ function newFeatureA(){
 function newFeatureB(){
     console.log ("another new feature B")
 }
+
+function newFeatureB2(){
+    console.log ("another new feature B2")
+}
+
