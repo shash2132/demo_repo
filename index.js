@@ -13,3 +13,8 @@ function helloo(){
 function newFeatureA(){
     console.log ("another new feature A")
 }
+
+
+function newFeatureB(){
+    console.log ("another new feature B")
+}
