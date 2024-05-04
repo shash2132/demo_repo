@@ -24,3 +24,5 @@ function newFeatureB2(){
 }
 
 console.log("branch 2 changes ");
+
+console.log("changes made here")
